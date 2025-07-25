@@ -33,6 +33,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mikrotik-0097a7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
